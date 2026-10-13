@@ -1,0 +1,1 @@
+[тест-кейс в виде таблицы](materials/alisa_task_1.jpg)
